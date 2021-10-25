@@ -1,2 +1,2 @@
 # DiceRoller
-A Ruby On Rails Web App that rolls your DnD dice for you.
+A React Web App that rolls your DnD dice for you.
